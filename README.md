@@ -1,7 +1,8 @@
 # ginger711.github-io
 
 # Headers
-# will i pass this course
+# subjects
+## comp thinking
 
 '''
 # h1 Heading 8-)
